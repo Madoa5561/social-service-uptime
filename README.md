@@ -36,6 +36,7 @@ Activate venv
 
 ## Oops setting .env File
 input your bot Token
+`DISCORD_BOT_TOKEN="INPUT YOUR TOKEN"`
 
 ### Lets GO Running
 

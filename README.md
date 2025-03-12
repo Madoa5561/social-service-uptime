@@ -1,9 +1,9 @@
 # social-service-uptime
 Notifies discord when the status of any service changes, as long as the service has a status.json on its status page
 
-#[WARNING]
-- このbotの不具合が起きない可能性は微レ存です
-- エラーハンドリングを細かくしてないので改善の余地があります
+> [!CAUTION]
+> このbotの不具合が起きない可能性は微レ存です
+> エラーハンドリングを細かくしてないので改善の余地があります
 
 ## install bot
 > bot install Link

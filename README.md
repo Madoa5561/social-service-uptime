@@ -31,5 +31,12 @@ Activate venv
 `pip install requests`
 `pip install discord`
 
-### Lets Go Runnning
+### Lets Go Running
+`python3 main.py`
+
+## Oops setting .env File
+input your bot Token
+
+### Lets GO Running
+
 `python3 main.py`
